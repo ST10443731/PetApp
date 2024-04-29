@@ -7,3 +7,16 @@ activities .for  example if the user clicks on the clean button the activity tha
 
 
 The following is images of the code used to run the app:
+![code2screenshot](https://github.com/ST1044373BO/PetApp/assets/161457359/03fd2bca-4204-4b3a-b2bb-00be71240efa)
+![code23](https://github.com/ST1044373BO/PetApp/assets/161457359/505ca59b-2316-4731-be1a-c794dbdfd6a7)
+![code24](https://github.com/ST1044373BO/PetApp/assets/161457359/3dd605cb-b2a6-4637-a695-be77cd6d6343)
+![code25](https://github.com/ST1044373BO/PetApp/assets/161457359/c332a0b8-94f7-41e1-8082-d5ccd9f3b442)
+
+the following is the images of the the app:
+![imagen](https://github.com/ST1044373BO/PetApp/assets/161457359/d7a176a7-7cd4-4722-ae32-d4ea44ea77c2)
+![image1](https://github.com/ST1044373BO/PetApp/assets/161457359/c5b53c86-5f7a-4040-b618-3c5689343a92)
+![imageplay](https://github.com/ST1044373BO/PetApp/assets/161457359/ae4f4a59-68d8-4ad8-8150-cd3b258314c6)
+![imageeat](https://github.com/ST1044373BO/PetApp/assets/161457359/d24cf66e-c8e0-4e19-a108-1b77db76cafc)
+
+
+the following is the video :
